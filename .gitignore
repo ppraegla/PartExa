@@ -3,6 +3,9 @@
 *.swp
 *.swo
 
+# Virtual environment
+venv/
+
 # eclipse
 /.cproject
 /.project

@@ -1,0 +1,3 @@
+clang-format==11.1.0
+Sphinx==4.4.0
+sphinx-rtd-theme==1.0.0
